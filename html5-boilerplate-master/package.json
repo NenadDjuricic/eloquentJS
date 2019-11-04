@@ -14,7 +14,7 @@
     "url": "https://github.com/h5bp/html5-boilerplate.git"
   },
   "bugs": {
-    "url" : "https://github.com/h5bp/html5-boilerplate/issues"
+    "url": "https://github.com/h5bp/html5-boilerplate/issues"
   },
   "scripts": {
     "build": "gulp build",
